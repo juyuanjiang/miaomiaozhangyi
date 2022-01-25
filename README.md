@@ -17,8 +17,7 @@
 
 
 
-线上版本:https://juyuanjiang.github.io/QIUGANGAOboom/
-
+线上版本：https://juyuanjiang.github.io/miaomiaozhangyi/
 
 
 源码:https://arcxingye.github.io/EatKano/index.html
